@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Samarth Bhat!  
+### 🚀 AI & Machine Learning Enthusiast | Student from Karnataka, India  
 
-<!--
-**SamarthBhat2006/SamarthBhat2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 About Me  
+- 🎓 Studying **Artificial Intelligence & Machine Learning**  
+- 💡 Passionate about **Deep Learning, NLP, and AI Applications**  
+- 🏆 Open to **collaborations** and **exciting projects**
+- 🌎 Based in **Karnataka, India**
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=SamarthBhat2006&color=blue) ![GitHub Followers](https://img.shields.io/github/followers/SamarthBhat2006?label=Followers&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- ## 📊 GitHub Stats  
+![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamarthBhat&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthBhat&layout=compact&theme=radical)  
